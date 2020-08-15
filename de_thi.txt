@@ -1,0 +1,8 @@
+using sqlite 3
+  - sql connector
+  - magic sql
+
+create table
+insert data
+select
+chart
